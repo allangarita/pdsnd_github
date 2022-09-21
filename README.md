@@ -23,3 +23,6 @@ Punto C. Cambio 02
 
 ### 2. Improve Documentation
 Punto C. Cambio 03
+
+### 3. Additional Changes to Documentation
+Punto B. Cambio 01
