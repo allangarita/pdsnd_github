@@ -270,6 +270,7 @@ def FDatosSinProcesar(df):
 
 def FMensajes():
     print('Gracias por usar nuestros sistemas')
+    print('Adios!!!')
 
 def main():
     while True:
