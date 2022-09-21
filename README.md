@@ -2,18 +2,26 @@
 
 ### Date created
 Include the date you created this project and README file.
+Creado por: Allan Garita Gonzalez
+Fecha de Creacion: 21/09/2022
 
 ### Project Title
 Replace the Project Title
+Titulo del proyecto: Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+Este proyecto permite al usuario consultar los datos de tres ciudades en las cuales existe el modelo de bicicletas compartidas, dandole vision sobre los datos y otra información relevante
 
 ### Files used
 Include the files used
+bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity curso de ciencia de datos
 
 ### 2. Improve Documentation
 Punto C. Cambio 01
