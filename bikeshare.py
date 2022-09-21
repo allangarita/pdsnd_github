@@ -8,7 +8,6 @@ Punto B. Cambio 02
 
 import time
 import pandas as pd
-import numpy as np
 
 """
 CITY_DATA = {'chicago': 'C:/UAIR/2022/Capacitaciones y Certificaciones/Programación para Data Science con Python/all-project-files/chicago.csv',
@@ -270,6 +269,10 @@ def FDatosSinProcesar(df):
       VTIniLoc += 5
       VTVerDatos = input("Desea continuar?: ").lower()
 
+def FMensajes():
+    print('Gracias por usar nuestros sistemas')
+    print('Adios!!!')
+
 def main():
     while True:
         city, month, day = FSolicitarDatos()
@@ -281,11 +284,11 @@ def main():
             FUserStats(df)
                 
         FDatosSinProcesar(df)
-
+        FMensajes()
         restart = input('\nTe gustaria volver a revisar la información? Digite (s)si o (n)no.\n')
         if restart.lower() not in ('s', 'sí', 'si'):
             break
 
 if __name__ == "__main__":
-	main()
+	main()    
 
