@@ -1,7 +1,8 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """
 Created on Tue Sep  6 19:38:11 2022
-
+3. Additional Changes to Documentation
+Punto B. Cambio 02
 @author: 43557132
 """
 
